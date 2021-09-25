@@ -4,7 +4,7 @@ from preprocessing import acc
 def app():
     st.subheader("Select values: ")
 
-    age = st.slider("Age",0,100)
+    age = st.slider("Age",18,100)
     sex = st.radio("Gender",["Male", "Female"])
     bmi = st.slider("BMI",0.0,35.0)
     children = st.slider("Number of Childs",0,10)
