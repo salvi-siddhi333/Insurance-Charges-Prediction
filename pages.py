@@ -6,7 +6,7 @@ def app():
 
     age = st.slider("Age",18,100)
     sex = st.radio("Gender",["Male", "Female"])
-    bmi = st.slider("BMI",18.0,35.0)
+    bmi = st.slider("BMI",18.5,24.9)
     children = st.slider("Number of Childs",0,10)
     smoker = st.radio("Smoker",["Yes","No"])
     region = st.selectbox("Region", ["northwest", "northeast", "southeast", "southwest"])
