@@ -1,4 +1,3 @@
-# Insurance-Prediction
 # Implementing Linear Regression on Insurance Dataset to predict charges values on the policy.
 <p align="center">
   <img src = "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/38d9affd650492adbb3cb0d29daa771c.jpg" width="700" height="230" align="centre">
